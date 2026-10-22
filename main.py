@@ -1,7 +1,3 @@
-class ErroPersonalizado(Exception):
-    pass
-
-
 while True:
     print("""===== SISTEMA DE AVALIAÇÃO DO CINEMA =====
 
